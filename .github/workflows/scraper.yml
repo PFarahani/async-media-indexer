@@ -1,32 +1,47 @@
-name: Scraper CI
+name: Async Media Scraper via Tor
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:   # manual trigger
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 3 * * *"  # daily at 03:00 UTC
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. Checkout repository with write access
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
+      # 2. Install Tor
+      - name: Install Tor
+        run: |
+          sudo apt update
+          sudo apt install -y tor
+          sudo service tor start
+          # optional: enable control port for IP rotation
+          sudo sed -i '/#ControlPort 9051/c\ControlPort 9051' /etc/tor/torrc
+          sudo service tor restart
+
+      # 3. Install Python dependencies
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install aiohttp beautifulsoup4
+          pip install aiohttp beautifulsoup4 pysocks
 
-      - name: Run scraper
+      # 4. Run scraper
+      - name: Run async scraper
         run: python scraper.py
 
-      - name: Commit results
+      # 5. Commit and push results
+      - name: Commit & push scraped data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

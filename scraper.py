@@ -6,6 +6,7 @@ from urllib.parse import urljoin
 import json
 import time
 import random
+import socket
 
 # concurrency controls
 FETCH_SEMAPHORE = 20
@@ -23,24 +24,39 @@ USER_AGENTS = [
     "Mozilla/5.0 (Linux; Android 11; Pixel 5)"
 ]
 
+# Tor proxy
+TOR_SOCKS_PROXY = "socks5://127.0.0.1:9050"
+TOR_CONTROL_PORT = 9051
+
+def renew_tor_identity():
+    """Send NEWNYM signal to Tor to get a new IP."""
+    try:
+        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+            s.connect(("127.0.0.1", TOR_CONTROL_PORT))
+            s.send(b'AUTHENTICATE ""\r\nSIGNAL NEWNYM\r\nQUIT\r\n')
+        print("🔄 Tor identity renewed.")
+    except Exception as e:
+        print(f"⚠️ Failed to renew Tor identity: {e}")
+
 
 async def fetch(session: aiohttp.ClientSession, url: str):
-    """Fetch page text with retries, concurrency control, and jitter."""
+    """Fetch page text with retries, Tor proxy, and jitter."""
     async with SEMAPHORE:
         delay = 1.0
         for attempt in range(1, MAX_RETRIES + 1):
             try:
                 headers = {"User-Agent": random.choice(USER_AGENTS)}
-                async with session.get(url, headers=headers, timeout=REQUEST_TIMEOUT) as resp:
+                async with session.get(
+                    url, headers=headers, proxy=TOR_SOCKS_PROXY, timeout=REQUEST_TIMEOUT
+                ) as resp:
                     if resp.status == 200:
                         return await resp.text()
-                    else:
-                        if resp.status in (403, 404):
-                            print(f"❌ {url} does not exist (status {resp.status})")
-                            return None
-                        print(f"⚠️ {url} returned status {resp.status}, retrying…")
+                    elif resp.status in (403, 404):
+                        print(f"❌ {url} blocked or not found (status {resp.status})")
+                        return None
+                    print(f"⚠️ {url} returned {resp.status}, retrying…")
             except (asyncio.TimeoutError, ClientConnectorError, aiohttp.ClientError) as e:
-                print(f"Attempt {attempt} failed for {url}: {e}")
+                print(f"Attempt {attempt} failed for {url} via Tor: {e}")
 
             if attempt < MAX_RETRIES:
                 await asyncio.sleep(delay)
@@ -103,18 +119,26 @@ async def scrape_all_roots():
             vlock = asyncio.Lock()
             tasks.append((root_url, scrape_directory(session, root_url, visited, vlock)))
 
-        results_list = await asyncio.gather(*[t[1] for t in tasks], return_exceptions=True)
+        results_list = []
+        for root_url, task in tasks:
+            # rotate Tor IP before each root
+            renew_tor_identity()
+            await asyncio.sleep(5)
+            try:
+                res = await task
+                results_list.append((root_url, res))
+            except Exception as e:
+                print(f"❌ Failed at {root_url}: {e}")
+                results_list.append((root_url, None))
 
+        # collect valid results
         results = {}
-        for (root_url, _), res in zip(tasks, results_list):
-            if isinstance(res, Exception):
-                print(f"❌ Failed at {root_url}: {res}")
-            elif res and (res.get("folders") or res.get("files")):
+        for root_url, res in results_list:
+            if res and (res.get("folders") or res.get("files")):
                 results[root_url] = res
             else:
                 print(f"⚠️ Skipping empty result for {root_url}")
-
-    return results
+        return results
 
 
 async def main():
