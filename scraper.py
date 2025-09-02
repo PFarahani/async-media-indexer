@@ -1,5 +1,6 @@
 import asyncio
 import aiohttp
+from aiohttp_socks import ProxyConnector
 from aiohttp import ClientConnectorError
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
@@ -24,7 +25,7 @@ USER_AGENTS = [
     "Mozilla/5.0 (Linux; Android 11; Pixel 5)"
 ]
 
-# Tor proxy
+# Tor proxy (SOCKS)
 TOR_SOCKS_PROXY = "socks5://127.0.0.1:9050"
 TOR_CONTROL_PORT = 9051
 
@@ -40,15 +41,13 @@ def renew_tor_identity():
 
 
 async def fetch(session: aiohttp.ClientSession, url: str):
-    """Fetch page text with retries, Tor proxy, and jitter."""
+    """Fetch page text with retries and jitter (session already has SOCKS proxy)."""
     async with SEMAPHORE:
         delay = 1.0
         for attempt in range(1, MAX_RETRIES + 1):
             try:
                 headers = {"User-Agent": random.choice(USER_AGENTS)}
-                async with session.get(
-                    url, headers=headers, proxy=TOR_SOCKS_PROXY, timeout=REQUEST_TIMEOUT
-                ) as resp:
+                async with session.get(url, headers=headers, timeout=REQUEST_TIMEOUT) as resp:
                     if resp.status == 200:
                         return await resp.text()
                     elif resp.status in (403, 404):
@@ -108,36 +107,30 @@ async def scrape_directory(session, url, visited, vlock):
 
 
 async def scrape_all_roots():
-    connector = aiohttp.TCPConnector(limit=100, ttl_dns_cache=300)
+    # use SOCKS connector for all requests (Tor)
+    connector = ProxyConnector.from_url(TOR_SOCKS_PROXY)
     headers = {"Accept-Encoding": "gzip, deflate"}
 
     async with aiohttp.ClientSession(connector=connector, headers=headers) as session:
-        tasks = []
+        results = {}
         for i in range(1, 31):
             root_url = f"https://dl{i}.sermoviedown.pw/"
             visited = set()
             vlock = asyncio.Lock()
-            tasks.append((root_url, scrape_directory(session, root_url, visited, vlock)))
 
-        results_list = []
-        for root_url, task in tasks:
             # rotate Tor IP before each root
             renew_tor_identity()
             await asyncio.sleep(5)
+
             try:
-                res = await task
-                results_list.append((root_url, res))
+                res = await scrape_directory(session, root_url, visited, vlock)
+                if res and (res.get("folders") or res.get("files")):
+                    results[root_url] = res
+                else:
+                    print(f"⚠️ Skipping empty result for {root_url}")
             except Exception as e:
                 print(f"❌ Failed at {root_url}: {e}")
-                results_list.append((root_url, None))
 
-        # collect valid results
-        results = {}
-        for root_url, res in results_list:
-            if res and (res.get("folders") or res.get("files")):
-                results[root_url] = res
-            else:
-                print(f"⚠️ Skipping empty result for {root_url}")
         return results
 
 
