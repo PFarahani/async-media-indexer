@@ -3,7 +3,7 @@ name: Async Media Scraper via Tor
 on:
   workflow_dispatch:   # manual trigger
   schedule:
-    - cron: "0 3 * * *"  # daily at 03:00 UTC
+    - cron: "0 3 */5 * *"
 
 jobs:
   scrape:
