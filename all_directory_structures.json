@@ -1823,7 +1823,40 @@
               "Widows.Bay/": {
                 "url": "https://dl2.sermoviedown.pw/Movies/2026/Widows.Bay/",
                 "folders": {
-                  "S01/": {}
+                  "S01/": {
+                    "url": "https://dl2.sermoviedown.pw/Movies/2026/Widows.Bay/S01/",
+                    "folders": {
+                      "1080x265/": {
+                        "url": "https://dl2.sermoviedown.pw/Movies/2026/Widows.Bay/S01/1080x265/",
+                        "folders": {},
+                        "files": [
+                          "https://dl2.sermoviedown.pw/Movies/2026/Widows.Bay/S01/1080x265/Widows.Bay.S01E01.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Movies/2026/Widows.Bay/S01/1080x265/Widows.Bay.S01E02.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Movies/2026/Widows.Bay/S01/1080x265/Widows.Bay.S01E03.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Movies/2026/Widows.Bay/S01/1080x265/Widows.Bay.S01E04.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Movies/2026/Widows.Bay/S01/1080x265/Widows.Bay.S01E05.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                        ]
+                      },
+                      "720x265/": {
+                        "url": "https://dl2.sermoviedown.pw/Movies/2026/Widows.Bay/S01/720x265/",
+                        "folders": {},
+                        "files": [
+                          "https://dl2.sermoviedown.pw/Movies/2026/Widows.Bay/S01/720x265/Widows.Bay.S01E01.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Movies/2026/Widows.Bay/S01/720x265/Widows.Bay.S01E02.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Movies/2026/Widows.Bay/S01/720x265/Widows.Bay.S01E03.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Movies/2026/Widows.Bay/S01/720x265/Widows.Bay.S01E04.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Movies/2026/Widows.Bay/S01/720x265/Widows.Bay.S01E05.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                        ]
+                      }
+                    },
+                    "files": [
+                      "https://dl2.sermoviedown.pw/Movies/2026/Widows.Bay/S01/Widows.Bay.S01E01.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie_Track03.srt",
+                      "https://dl2.sermoviedown.pw/Movies/2026/Widows.Bay/S01/Widows.Bay.S01E02.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie_Track03.srt",
+                      "https://dl2.sermoviedown.pw/Movies/2026/Widows.Bay/S01/Widows.Bay.S01E03.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie_Track03.srt",
+                      "https://dl2.sermoviedown.pw/Movies/2026/Widows.Bay/S01/Widows.Bay.S01E04.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie_Track03.srt",
+                      "https://dl2.sermoviedown.pw/Movies/2026/Widows.Bay/S01/Widows.Bay.S01E05.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie_Track03.srt"
+                    ]
+                  }
                 },
                 "files": []
               },
@@ -2661,7 +2694,8 @@
                           "https://dl2.sermoviedown.pw/Series/2025/Link.Click/S4/720/Link.Click.S04E06.720p.WEB-DL.x264.SoftSub.Sermovie.mkv",
                           "https://dl2.sermoviedown.pw/Series/2025/Link.Click/S4/720/Link.Click.S04E07.720p.WEB-DL.x264.SoftSub.Sermovie.mkv",
                           "https://dl2.sermoviedown.pw/Series/2025/Link.Click/S4/720/Link.Click.S04E08.720p.WEB-DL.x264.SoftSub.Sermovie.mkv",
-                          "https://dl2.sermoviedown.pw/Series/2025/Link.Click/S4/720/Link.Click.S04E09.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
+                          "https://dl2.sermoviedown.pw/Series/2025/Link.Click/S4/720/Link.Click.S04E09.720p.WEB-DL.x264.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Series/2025/Link.Click/S4/720/Link.Click.S04E10.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
                         ]
                       }
                     },
@@ -3110,7 +3144,36 @@
                     },
                     "files": []
                   },
-                  "S2/": {}
+                  "S2/": {
+                    "url": "https://dl2.sermoviedown.pw/Series/2025/The.Rehearsal/S2/",
+                    "folders": {
+                      "1080x265/": {
+                        "url": "https://dl2.sermoviedown.pw/Series/2025/The.Rehearsal/S2/1080x265/",
+                        "folders": {},
+                        "files": [
+                          "https://dl2.sermoviedown.pw/Series/2025/The.Rehearsal/S2/1080x265/The.Rehearsal.S02E01.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Series/2025/The.Rehearsal/S2/1080x265/The.Rehearsal.S02E02.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Series/2025/The.Rehearsal/S2/1080x265/The.Rehearsal.S02E03.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Series/2025/The.Rehearsal/S2/1080x265/The.Rehearsal.S02E04.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Series/2025/The.Rehearsal/S2/1080x265/The.Rehearsal.S02E05.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Series/2025/The.Rehearsal/S2/1080x265/The.Rehearsal.S02E06.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                        ]
+                      },
+                      "720x265/": {
+                        "url": "https://dl2.sermoviedown.pw/Series/2025/The.Rehearsal/S2/720x265/",
+                        "folders": {},
+                        "files": [
+                          "https://dl2.sermoviedown.pw/Series/2025/The.Rehearsal/S2/720x265/The.Rehearsal.S02E01.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Series/2025/The.Rehearsal/S2/720x265/The.Rehearsal.S02E02.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Series/2025/The.Rehearsal/S2/720x265/The.Rehearsal.S02E03.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Series/2025/The.Rehearsal/S2/720x265/The.Rehearsal.S02E04.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Series/2025/The.Rehearsal/S2/720x265/The.Rehearsal.S02E05.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Series/2025/The.Rehearsal/S2/720x265/The.Rehearsal.S02E06.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                        ]
+                      }
+                    },
+                    "files": []
+                  }
                 },
                 "files": []
               },
@@ -3294,7 +3357,8 @@
                         "files": [
                           "https://dl2.sermoviedown.pw/Series/2026/Brothers/S1/1080x265/Brothers.S01E01.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl2.sermoviedown.pw/Series/2026/Brothers/S1/1080x265/Brothers.S01E02.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
-                          "https://dl2.sermoviedown.pw/Series/2026/Brothers/S1/1080x265/Brothers.S01E03.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                          "https://dl2.sermoviedown.pw/Series/2026/Brothers/S1/1080x265/Brothers.S01E03.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Series/2026/Brothers/S1/1080x265/Brothers.S01E04.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
                         ]
                       },
                       "720x265/": {
@@ -3303,7 +3367,8 @@
                         "files": [
                           "https://dl2.sermoviedown.pw/Series/2026/Brothers/S1/720x265/Brothers.S01E01.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl2.sermoviedown.pw/Series/2026/Brothers/S1/720x265/Brothers.S01E02.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
-                          "https://dl2.sermoviedown.pw/Series/2026/Brothers/S1/720x265/Brothers.S01E03.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                          "https://dl2.sermoviedown.pw/Series/2026/Brothers/S1/720x265/Brothers.S01E03.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Series/2026/Brothers/S1/720x265/Brothers.S01E04.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
                         ]
                       }
                     },
@@ -3315,7 +3380,8 @@
                     "files": [
                       "https://dl2.sermoviedown.pw/Series/2026/Brothers/Sub/Brothers.S01E01.srt",
                       "https://dl2.sermoviedown.pw/Series/2026/Brothers/Sub/Brothers.S01E02.srt",
-                      "https://dl2.sermoviedown.pw/Series/2026/Brothers/Sub/Brothers.S01E03.srt"
+                      "https://dl2.sermoviedown.pw/Series/2026/Brothers/Sub/Brothers.S01E03.srt",
+                      "https://dl2.sermoviedown.pw/Series/2026/Brothers/Sub/Brothers.S01E04.srt"
                     ]
                   }
                 },
@@ -4004,7 +4070,8 @@
                         "url": "https://dl2.sermoviedown.pw/Series/2026/The.Ramparts.of.Ice/S2/720/",
                         "folders": {},
                         "files": [
-                          "https://dl2.sermoviedown.pw/Series/2026/The.Ramparts.of.Ice/S2/720/The.Ramparts.of.Ice.S02E01.720p.NF.WEB-DL.x264.SoftSub.Sermovie.mkv"
+                          "https://dl2.sermoviedown.pw/Series/2026/The.Ramparts.of.Ice/S2/720/The.Ramparts.of.Ice.S02E01.720p.NF.WEB-DL.x264.SoftSub.Sermovie.mkv",
+                          "https://dl2.sermoviedown.pw/Series/2026/The.Ramparts.of.Ice/S2/720/The.Ramparts.of.Ice.S02E02.720p.NF.WEB-DL.x264.SoftSub.Sermovie.mkv"
                         ]
                       }
                     },
@@ -8218,7 +8285,8 @@
                         "folders": {},
                         "files": [
                           "https://dl3.sermoviedown.pw/Series/2025/The.Graham.Norton.Show/S34/720x265/The.Graham.Norton.Show.S34E01.Tom.Cruise-Florence.Pugh-Lolly.Adefope-John.Bishop.720p.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv",
-                          "https://dl3.sermoviedown.pw/Series/2025/The.Graham.Norton.Show/S34/720x265/The.Graham.Norton.Show.S34E02.720p.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv"
+                          "https://dl3.sermoviedown.pw/Series/2025/The.Graham.Norton.Show/S34/720x265/The.Graham.Norton.Show.S34E02.720p.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv",
+                          "https://dl3.sermoviedown.pw/Series/2025/The.Graham.Norton.Show/S34/720x265/The.Graham.Norton.Show.S34E03.720p.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv"
                         ]
                       }
                     },
@@ -8997,7 +9065,8 @@
                         "url": "https://dl3.sermoviedown.pw/Series/2026/Black.Clover/S2/720/",
                         "folders": {},
                         "files": [
-                          "https://dl3.sermoviedown.pw/Series/2026/Black.Clover/S2/720/Black.Clover.S02E01.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
+                          "https://dl3.sermoviedown.pw/Series/2026/Black.Clover/S2/720/Black.Clover.S02E01.720p.WEB-DL.x264.SoftSub.Sermovie.mkv",
+                          "https://dl3.sermoviedown.pw/Series/2026/Black.Clover/S2/720/Black.Clover.S02E02.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
                         ]
                       }
                     },
@@ -9188,6 +9257,25 @@
                 },
                 "files": []
               },
+              "Firefly.Wedding/": {
+                "url": "https://dl3.sermoviedown.pw/Series/2026/Firefly.Wedding/",
+                "folders": {
+                  "S1/": {
+                    "url": "https://dl3.sermoviedown.pw/Series/2026/Firefly.Wedding/S1/",
+                    "folders": {
+                      "720/": {
+                        "url": "https://dl3.sermoviedown.pw/Series/2026/Firefly.Wedding/S1/720/",
+                        "folders": {},
+                        "files": [
+                          "https://dl3.sermoviedown.pw/Series/2026/Firefly.Wedding/S1/720/Firefly.Wedding.S01E01.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
+                        ]
+                      }
+                    },
+                    "files": []
+                  }
+                },
+                "files": []
+              },
               "From.Old.Country.Bumpkin.to.Master.Swordsman/": {
                 "url": "https://dl3.sermoviedown.pw/Series/2026/From.Old.Country.Bumpkin.to.Master.Swordsman/",
                 "folders": {
@@ -9261,6 +9349,25 @@
                           "https://dl3.sermoviedown.pw/Series/2026/Grand.Blue/S3/720/Grand.Blue.S03E10.720p.WEB-DL.x264.SoftSub.Sermovie.mkv",
                           "https://dl3.sermoviedown.pw/Series/2026/Grand.Blue/S3/720/Grand.Blue.S03E11.720p.WEB-DL.x264.SoftSub.Sermovie.mkv",
                           "https://dl3.sermoviedown.pw/Series/2026/Grand.Blue/S3/720/Grand.Blue.S03E12.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
+                        ]
+                      }
+                    },
+                    "files": []
+                  }
+                },
+                "files": []
+              },
+              "Hello.I.am.a.Witch.and.my.Crush.Wants.me.to.Make.a.Love.Potion/": {
+                "url": "https://dl3.sermoviedown.pw/Series/2026/Hello.I.am.a.Witch.and.my.Crush.Wants.me.to.Make.a.Love.Potion/",
+                "folders": {
+                  "S1/": {
+                    "url": "https://dl3.sermoviedown.pw/Series/2026/Hello.I.am.a.Witch.and.my.Crush.Wants.me.to.Make.a.Love.Potion/S1/",
+                    "folders": {
+                      "720/": {
+                        "url": "https://dl3.sermoviedown.pw/Series/2026/Hello.I.am.a.Witch.and.my.Crush.Wants.me.to.Make.a.Love.Potion/S1/720/",
+                        "folders": {},
+                        "files": [
+                          "https://dl3.sermoviedown.pw/Series/2026/Hello.I.am.a.Witch.and.my.Crush.Wants.me.to.Make.a.Love.Potion/S1/720/Hello.I.am.a.Witch.and.my.Crush.Wants.me.to.Make.a.Love.Potion.S01E01.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
                         ]
                       }
                     },
@@ -9495,7 +9602,27 @@
                         "url": "https://dl3.sermoviedown.pw/Series/2026/Overgeared/S1/720/",
                         "folders": {},
                         "files": [
-                          "https://dl3.sermoviedown.pw/Series/2026/Overgeared/S1/720/Overgeared.S01E01.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
+                          "https://dl3.sermoviedown.pw/Series/2026/Overgeared/S1/720/Overgeared.S01E01.720p.WEB-DL.x264.SoftSub.Sermovie.mkv",
+                          "https://dl3.sermoviedown.pw/Series/2026/Overgeared/S1/720/Overgeared.S01E02.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
+                        ]
+                      }
+                    },
+                    "files": []
+                  }
+                },
+                "files": []
+              },
+              "Psyren/": {
+                "url": "https://dl3.sermoviedown.pw/Series/2026/Psyren/",
+                "folders": {
+                  "S1/": {
+                    "url": "https://dl3.sermoviedown.pw/Series/2026/Psyren/S1/",
+                    "folders": {
+                      "720/": {
+                        "url": "https://dl3.sermoviedown.pw/Series/2026/Psyren/S1/720/",
+                        "folders": {},
+                        "files": [
+                          "https://dl3.sermoviedown.pw/Series/2026/Psyren/S1/720/Psyren.S01E01.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
                         ]
                       }
                     },
@@ -9514,7 +9641,8 @@
                         "url": "https://dl3.sermoviedown.pw/Series/2026/Reincarnated.as.a.Sword/S2/720/",
                         "folders": {},
                         "files": [
-                          "https://dl3.sermoviedown.pw/Series/2026/Reincarnated.as.a.Sword/S2/720/Reincarnated.as.a.Sword.S02E01.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
+                          "https://dl3.sermoviedown.pw/Series/2026/Reincarnated.as.a.Sword/S2/720/Reincarnated.as.a.Sword.S02E01.720p.WEB-DL.x264.SoftSub.Sermovie.mkv",
+                          "https://dl3.sermoviedown.pw/Series/2026/Reincarnated.as.a.Sword/S2/720/Reincarnated.as.a.Sword.S02E02.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
                         ]
                       }
                     },
@@ -9676,7 +9804,8 @@
                         "files": [
                           "https://dl3.sermoviedown.pw/Series/2026/Steel.Ball.Run.JoJos.Bizarre.Adventure/S1/720/Steel.Ball.Run.JoJos.Bizarre.Adventure.S01E01.720p.WEB-DL.x264.SoftSub.Sermovie.mkv",
                           "https://dl3.sermoviedown.pw/Series/2026/Steel.Ball.Run.JoJos.Bizarre.Adventure/S1/720/Steel.Ball.Run.JoJos.Bizarre.Adventure.S01E02.720p.WEB-DL.x264.SoftSub.Sermovie.mkv",
-                          "https://dl3.sermoviedown.pw/Series/2026/Steel.Ball.Run.JoJos.Bizarre.Adventure/S1/720/Steel.Ball.Run.JoJos.Bizarre.Adventure.S01E03.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
+                          "https://dl3.sermoviedown.pw/Series/2026/Steel.Ball.Run.JoJos.Bizarre.Adventure/S1/720/Steel.Ball.Run.JoJos.Bizarre.Adventure.S01E03.720p.WEB-DL.x264.SoftSub.Sermovie.mkv",
+                          "https://dl3.sermoviedown.pw/Series/2026/Steel.Ball.Run.JoJos.Bizarre.Adventure/S1/720/Steel.Ball.Run.JoJos.Bizarre.Adventure.S01E04.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
                         ]
                       }
                     },
@@ -9777,7 +9906,8 @@
                           "https://dl3.sermoviedown.pw/Series/2026/The.Exiled.Heavy.Knight.Knows.How.to.Game.the.System/S1/720/The.Exiled.Heavy.Knight.Knows.How.to.Game.the.System.S01E11.720p.WEB-DL.x264.SoftSub.Sermovie.mkv",
                           "https://dl3.sermoviedown.pw/Series/2026/The.Exiled.Heavy.Knight.Knows.How.to.Game.the.System/S1/720/The.Exiled.Heavy.Knight.Knows.How.to.Game.the.System.S01E12.720p.WEB-DL.x264.SoftSub.Sermovie.mkv",
                           "https://dl3.sermoviedown.pw/Series/2026/The.Exiled.Heavy.Knight.Knows.How.to.Game.the.System/S1/720/The.Exiled.Heavy.Knight.Knows.How.to.Game.the.System.S01E13.720p.WEB-DL.x264.SoftSub.Sermovie.mkv",
-                          "https://dl3.sermoviedown.pw/Series/2026/The.Exiled.Heavy.Knight.Knows.How.to.Game.the.System/S1/720/The.Exiled.Heavy.Knight.Knows.How.to.Game.the.System.S01E14.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
+                          "https://dl3.sermoviedown.pw/Series/2026/The.Exiled.Heavy.Knight.Knows.How.to.Game.the.System/S1/720/The.Exiled.Heavy.Knight.Knows.How.to.Game.the.System.S01E14.720p.WEB-DL.x264.SoftSub.Sermovie.mkv",
+                          "https://dl3.sermoviedown.pw/Series/2026/The.Exiled.Heavy.Knight.Knows.How.to.Game.the.System/S1/720/The.Exiled.Heavy.Knight.Knows.How.to.Game.the.System.S01E15.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
                         ]
                       }
                     },
@@ -9946,7 +10076,8 @@
                         "url": "https://dl3.sermoviedown.pw/Series/2026/Tokyo.Revengers/S4/720/",
                         "folders": {},
                         "files": [
-                          "https://dl3.sermoviedown.pw/Series/2026/Tokyo.Revengers/S4/720/Tokyo.Revengers.S04E01.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
+                          "https://dl3.sermoviedown.pw/Series/2026/Tokyo.Revengers/S4/720/Tokyo.Revengers.S04E01.720p.WEB-DL.x264.SoftSub.Sermovie.mkv",
+                          "https://dl3.sermoviedown.pw/Series/2026/Tokyo.Revengers/S4/720/Tokyo.Revengers.S04E02.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
                         ]
                       }
                     },
@@ -17096,7 +17227,8 @@
                         "url": "https://dl4.sermoviedown.pw/Series/2025/The.Apothecary.Diaries/S3/1080x265/",
                         "folders": {},
                         "files": [
-                          "https://dl4.sermoviedown.pw/Series/2025/The.Apothecary.Diaries/S3/1080x265/The.Apothecary.Diaries.S03E01.1080p.WEB-DL.10bit.x265.Judas.SoftSub.Sermovie.mkv"
+                          "https://dl4.sermoviedown.pw/Series/2025/The.Apothecary.Diaries/S3/1080x265/The.Apothecary.Diaries.S03E01.1080p.WEB-DL.10bit.x265.Judas.SoftSub.Sermovie.mkv",
+                          "https://dl4.sermoviedown.pw/Series/2025/The.Apothecary.Diaries/S3/1080x265/The.Apothecary.Diaries.S03E02.1080p.WEB-DL.10bit.x265.Judas.SoftSub.Sermovie.mkv"
                         ]
                       }
                     },
@@ -17274,7 +17406,8 @@
                           "https://dl4.sermoviedown.pw/Series/2026/American.Horror.Story/S13/1080x265/American.Horror.Story.S13E02.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl4.sermoviedown.pw/Series/2026/American.Horror.Story/S13/1080x265/American.Horror.Story.S13E03.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl4.sermoviedown.pw/Series/2026/American.Horror.Story/S13/1080x265/American.Horror.Story.S13E04.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
-                          "https://dl4.sermoviedown.pw/Series/2026/American.Horror.Story/S13/1080x265/American.Horror.Story.S13E05.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                          "https://dl4.sermoviedown.pw/Series/2026/American.Horror.Story/S13/1080x265/American.Horror.Story.S13E05.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl4.sermoviedown.pw/Series/2026/American.Horror.Story/S13/1080x265/American.Horror.Story.S13E06.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
                         ]
                       },
                       "720x265/": {
@@ -17285,7 +17418,8 @@
                           "https://dl4.sermoviedown.pw/Series/2026/American.Horror.Story/S13/720x265/American.Horror.Story.S13E02.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl4.sermoviedown.pw/Series/2026/American.Horror.Story/S13/720x265/American.Horror.Story.S13E03.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl4.sermoviedown.pw/Series/2026/American.Horror.Story/S13/720x265/American.Horror.Story.S13E04.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
-                          "https://dl4.sermoviedown.pw/Series/2026/American.Horror.Story/S13/720x265/American.Horror.Story.S13E05.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                          "https://dl4.sermoviedown.pw/Series/2026/American.Horror.Story/S13/720x265/American.Horror.Story.S13E05.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl4.sermoviedown.pw/Series/2026/American.Horror.Story/S13/720x265/American.Horror.Story.S13E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
                         ]
                       }
                     },
@@ -17340,6 +17474,42 @@
                       "https://dl4.sermoviedown.pw/Series/2026/Anna.Pigeon/Sub/Anna.Pigeon.S01E07.srt",
                       "https://dl4.sermoviedown.pw/Series/2026/Anna.Pigeon/Sub/Anna.Pigeon.S01E08.srt"
                     ]
+                  }
+                },
+                "files": []
+              },
+              "Below/": {
+                "url": "https://dl4.sermoviedown.pw/Series/2026/Below/",
+                "folders": {
+                  "S1/": {
+                    "url": "https://dl4.sermoviedown.pw/Series/2026/Below/S1/",
+                    "folders": {
+                      "1080x265/": {
+                        "url": "https://dl4.sermoviedown.pw/Series/2026/Below/S1/1080x265/",
+                        "folders": {},
+                        "files": [
+                          "https://dl4.sermoviedown.pw/Series/2026/Below/S1/1080x265/Below.S01E01.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl4.sermoviedown.pw/Series/2026/Below/S1/1080x265/Below.S01E02.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl4.sermoviedown.pw/Series/2026/Below/S1/1080x265/Below.S01E03.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl4.sermoviedown.pw/Series/2026/Below/S1/1080x265/Below.S01E04.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl4.sermoviedown.pw/Series/2026/Below/S1/1080x265/Below.S01E05.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl4.sermoviedown.pw/Series/2026/Below/S1/1080x265/Below.S01E06.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                        ]
+                      },
+                      "720x265/": {
+                        "url": "https://dl4.sermoviedown.pw/Series/2026/Below/S1/720x265/",
+                        "folders": {},
+                        "files": [
+                          "https://dl4.sermoviedown.pw/Series/2026/Below/S1/720x265/Below.S01E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl4.sermoviedown.pw/Series/2026/Below/S1/720x265/Below.S01E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl4.sermoviedown.pw/Series/2026/Below/S1/720x265/Below.S01E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl4.sermoviedown.pw/Series/2026/Below/S1/720x265/Below.S01E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl4.sermoviedown.pw/Series/2026/Below/S1/720x265/Below.S01E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl4.sermoviedown.pw/Series/2026/Below/S1/720x265/Below.S01E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                        ]
+                      }
+                    },
+                    "files": []
                   }
                 },
                 "files": []
@@ -17511,6 +17681,42 @@
                 },
                 "files": []
               },
+              "Get.Jiro/": {
+                "url": "https://dl4.sermoviedown.pw/Series/2026/Get.Jiro/",
+                "folders": {
+                  "S1/": {
+                    "url": "https://dl4.sermoviedown.pw/Series/2026/Get.Jiro/S1/",
+                    "folders": {
+                      "1080x265/": {
+                        "url": "https://dl4.sermoviedown.pw/Series/2026/Get.Jiro/S1/1080x265/",
+                        "folders": {},
+                        "files": [
+                          "https://dl4.sermoviedown.pw/Series/2026/Get.Jiro/S1/1080x265/Get.Jiro.S01E01.Pilot.1080p.HEVC.x265-MeGusta.Sermovie.mkv",
+                          "https://dl4.sermoviedown.pw/Series/2026/Get.Jiro/S1/1080x265/Get.Jiro.S01E02.Meat.Is.Murder.1080p.HEVC.x265-MeGusta.Sermovie.mkv"
+                        ]
+                      },
+                      "720x265/": {
+                        "url": "https://dl4.sermoviedown.pw/Series/2026/Get.Jiro/S1/720x265/",
+                        "folders": {},
+                        "files": [
+                          "https://dl4.sermoviedown.pw/Series/2026/Get.Jiro/S1/720x265/Get.Jiro.S01E01.Pilot.720p.HEVC.x265-MeGusta.Sermovie.mkv",
+                          "https://dl4.sermoviedown.pw/Series/2026/Get.Jiro/S1/720x265/Get.Jiro.S01E02.Meat.Is.Murder.720p.HEVC.x265-MeGusta.Sermovie.mkv"
+                        ]
+                      }
+                    },
+                    "files": []
+                  },
+                  "Sub/": {
+                    "url": "https://dl4.sermoviedown.pw/Series/2026/Get.Jiro/Sub/",
+                    "folders": {},
+                    "files": [
+                      "https://dl4.sermoviedown.pw/Series/2026/Get.Jiro/Sub/Get.Jiro.S01E01.srt",
+                      "https://dl4.sermoviedown.pw/Series/2026/Get.Jiro/Sub/Get.Jiro.S01E02.srt"
+                    ]
+                  }
+                },
+                "files": []
+              },
               "Golden.Axe/": {
                 "url": "https://dl4.sermoviedown.pw/Series/2026/Golden.Axe/",
                 "folders": {
@@ -17647,7 +17853,8 @@
                         "folders": {},
                         "files": [
                           "https://dl4.sermoviedown.pw/Series/2026/Scrubs/S2/720x265/Scrubs.S02E01.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.Sermovie.mkv",
-                          "https://dl4.sermoviedown.pw/Series/2026/Scrubs/S2/720x265/Scrubs.S02E02.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.Sermovie.mkv"
+                          "https://dl4.sermoviedown.pw/Series/2026/Scrubs/S2/720x265/Scrubs.S02E02.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.Sermovie.mkv",
+                          "https://dl4.sermoviedown.pw/Series/2026/Scrubs/S2/720x265/Scrubs.S02E03.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.Sermovie.mkv"
                         ]
                       }
                     },
@@ -17923,14 +18130,16 @@
                         "url": "https://dl4.sermoviedown.pw/Series/2026/War/S1/1080x265/",
                         "folders": {},
                         "files": [
-                          "https://dl4.sermoviedown.pw/Series/2026/War/S1/1080x265/War.S01E01.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                          "https://dl4.sermoviedown.pw/Series/2026/War/S1/1080x265/War.S01E01.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl4.sermoviedown.pw/Series/2026/War/S1/1080x265/War.S01E02.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
                         ]
                       },
                       "720x265/": {
                         "url": "https://dl4.sermoviedown.pw/Series/2026/War/S1/720x265/",
                         "folders": {},
                         "files": [
-                          "https://dl4.sermoviedown.pw/Series/2026/War/S1/720x265/War.S01E01.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                          "https://dl4.sermoviedown.pw/Series/2026/War/S1/720x265/War.S01E01.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl4.sermoviedown.pw/Series/2026/War/S1/720x265/War.S01E02.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
                         ]
                       }
                     },
@@ -17940,7 +18149,8 @@
                     "url": "https://dl4.sermoviedown.pw/Series/2026/War/Sub/",
                     "folders": {},
                     "files": [
-                      "https://dl4.sermoviedown.pw/Series/2026/War/Sub/War.S01E01.srt"
+                      "https://dl4.sermoviedown.pw/Series/2026/War/Sub/War.S01E01.srt",
+                      "https://dl4.sermoviedown.pw/Series/2026/War/Sub/War.S01E02.srt"
                     ]
                   }
                 },
@@ -20671,6 +20881,39 @@
                         "folders": {},
                         "files": [
                           "https://dl5.sermoviedown.pw/Movies/2026/Masters.of.the.Universe/Web-Dl/720x265/Masters.of.the.Universe.2026.10bit.720p.x265.WEB-DL.6CH.PSA.SoftSub.Sermovie.mkv"
+                        ]
+                      }
+                    },
+                    "files": []
+                  }
+                },
+                "files": []
+              },
+              "Matchbox.the.Movie/": {
+                "url": "https://dl5.sermoviedown.pw/Movies/2026/Matchbox.the.Movie/",
+                "folders": {
+                  "Sub/": {
+                    "url": "https://dl5.sermoviedown.pw/Movies/2026/Matchbox.the.Movie/Sub/",
+                    "folders": {},
+                    "files": [
+                      "https://dl5.sermoviedown.pw/Movies/2026/Matchbox.the.Movie/Sub/Matchbox.the.Movie.2026..srt"
+                    ]
+                  },
+                  "Web/": {
+                    "url": "https://dl5.sermoviedown.pw/Movies/2026/Matchbox.the.Movie/Web/",
+                    "folders": {
+                      "1080x265/": {
+                        "url": "https://dl5.sermoviedown.pw/Movies/2026/Matchbox.the.Movie/Web/1080x265/",
+                        "folders": {},
+                        "files": [
+                          "https://dl5.sermoviedown.pw/Movies/2026/Matchbox.the.Movie/Web/1080x265/Matchbox.the.Movie.2026.10bit.1080p.x265.WEB-DL.6CH.PSA.SoftSub.Sermovie.mkv"
+                        ]
+                      },
+                      "720x265/": {
+                        "url": "https://dl5.sermoviedown.pw/Movies/2026/Matchbox.the.Movie/Web/720x265/",
+                        "folders": {},
+                        "files": [
+                          "https://dl5.sermoviedown.pw/Movies/2026/Matchbox.the.Movie/Web/720x265/Matchbox.the.Movie.2026.10bit.720p.x265.WEB-DL.6CH.PSA.SoftSub.Sermovie.mkv"
                         ]
                       }
                     },
@@ -23606,7 +23849,8 @@
                         "files": [
                           "https://dl5.sermoviedown.pw/Series/2022/Slow.Horses/S6/1080x265/Slow.Horses.S06E01.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl5.sermoviedown.pw/Series/2022/Slow.Horses/S6/1080x265/Slow.Horses.S06E02.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
-                          "https://dl5.sermoviedown.pw/Series/2022/Slow.Horses/S6/1080x265/Slow.Horses.S06E03.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                          "https://dl5.sermoviedown.pw/Series/2022/Slow.Horses/S6/1080x265/Slow.Horses.S06E03.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl5.sermoviedown.pw/Series/2022/Slow.Horses/S6/1080x265/Slow.Horses.S06E04.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
                         ]
                       },
                       "720x265/": {
@@ -23615,7 +23859,8 @@
                         "files": [
                           "https://dl5.sermoviedown.pw/Series/2022/Slow.Horses/S6/720x265/Slow.Horses.S06E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl5.sermoviedown.pw/Series/2022/Slow.Horses/S6/720x265/Slow.Horses.S06E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
-                          "https://dl5.sermoviedown.pw/Series/2022/Slow.Horses/S6/720x265/Slow.Horses.S06E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                          "https://dl5.sermoviedown.pw/Series/2022/Slow.Horses/S6/720x265/Slow.Horses.S06E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl5.sermoviedown.pw/Series/2022/Slow.Horses/S6/720x265/Slow.Horses.S06E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
                         ]
                       },
                       "Sub/": {
@@ -23624,7 +23869,8 @@
                         "files": [
                           "https://dl5.sermoviedown.pw/Series/2022/Slow.Horses/S6/Sub/Slow.Horses.S06E01.fa.srt",
                           "https://dl5.sermoviedown.pw/Series/2022/Slow.Horses/S6/Sub/Slow.Horses.S06E02.srt",
-                          "https://dl5.sermoviedown.pw/Series/2022/Slow.Horses/S6/Sub/Slow.Horses.S06E03.srt"
+                          "https://dl5.sermoviedown.pw/Series/2022/Slow.Horses/S6/Sub/Slow.Horses.S06E03.srt",
+                          "https://dl5.sermoviedown.pw/Series/2022/Slow.Horses/S6/Sub/Slow.Horses.S06E04.srt"
                         ]
                       }
                     },
@@ -27201,7 +27447,8 @@
                         "files": [
                           "https://dl5.sermoviedown.pw/Series/2025/MobLand/S2/1080x265/MobLand.S02E01.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl5.sermoviedown.pw/Series/2025/MobLand/S2/1080x265/MobLand.S02E02.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
-                          "https://dl5.sermoviedown.pw/Series/2025/MobLand/S2/1080x265/MobLand.S02E03.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                          "https://dl5.sermoviedown.pw/Series/2025/MobLand/S2/1080x265/MobLand.S02E03.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl5.sermoviedown.pw/Series/2025/MobLand/S2/1080x265/MobLand.S02E04.1080p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
                         ]
                       },
                       "720x265/": {
@@ -27210,7 +27457,8 @@
                         "files": [
                           "https://dl5.sermoviedown.pw/Series/2025/MobLand/S2/720x265/MobLand.S02E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl5.sermoviedown.pw/Series/2025/MobLand/S2/720x265/MobLand.S02E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
-                          "https://dl5.sermoviedown.pw/Series/2025/MobLand/S2/720x265/MobLand.S02E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                          "https://dl5.sermoviedown.pw/Series/2025/MobLand/S2/720x265/MobLand.S02E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl5.sermoviedown.pw/Series/2025/MobLand/S2/720x265/MobLand.S02E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
                         ]
                       },
                       "Sub/": {
@@ -27219,7 +27467,8 @@
                         "files": [
                           "https://dl5.sermoviedown.pw/Series/2025/MobLand/S2/Sub/MobLand.S02E01.fa.srt",
                           "https://dl5.sermoviedown.pw/Series/2025/MobLand/S2/Sub/MobLand.S02E02.srt",
-                          "https://dl5.sermoviedown.pw/Series/2025/MobLand/S2/Sub/MobLand.S02E03.srt"
+                          "https://dl5.sermoviedown.pw/Series/2025/MobLand/S2/Sub/MobLand.S02E03.srt",
+                          "https://dl5.sermoviedown.pw/Series/2025/MobLand/S2/Sub/MobLand.S02E04.srt"
                         ]
                       }
                     },
@@ -27585,7 +27834,8 @@
                         "url": "https://dl5.sermoviedown.pw/Series/2025/TOUGEN.ANKI/S2/720/",
                         "folders": {},
                         "files": [
-                          "https://dl5.sermoviedown.pw/Series/2025/TOUGEN.ANKI/S2/720/Tougen.Anki.Dark.Demon.of.Paradise.S02E01.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
+                          "https://dl5.sermoviedown.pw/Series/2025/TOUGEN.ANKI/S2/720/Tougen.Anki.Dark.Demon.of.Paradise.S02E01.720p.WEB-DL.x264.SoftSub.Sermovie.mkv",
+                          "https://dl5.sermoviedown.pw/Series/2025/TOUGEN.ANKI/S2/720/Tougen.Anki.Dark.Demon.of.Paradise.S02E02.720p.WEB-DL.x264.SoftSub.Sermovie.mkv"
                         ]
                       }
                     },
@@ -29480,7 +29730,8 @@
                           "https://dl5.sermoviedown.pw/Series/2026/Last.Seen/S1/1080x265/Last.Seen.S01E02.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl5.sermoviedown.pw/Series/2026/Last.Seen/S1/1080x265/Last.Seen.S01E03.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl5.sermoviedown.pw/Series/2026/Last.Seen/S1/1080x265/Last.Seen.S01E04.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
-                          "https://dl5.sermoviedown.pw/Series/2026/Last.Seen/S1/1080x265/Last.Seen.S01E05.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                          "https://dl5.sermoviedown.pw/Series/2026/Last.Seen/S1/1080x265/Last.Seen.S01E05.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl5.sermoviedown.pw/Series/2026/Last.Seen/S1/1080x265/Last.Seen.S01E06.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
                         ]
                       },
                       "720x265/": {
@@ -29491,7 +29742,8 @@
                           "https://dl5.sermoviedown.pw/Series/2026/Last.Seen/S1/720x265/Last.Seen.S01E02.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl5.sermoviedown.pw/Series/2026/Last.Seen/S1/720x265/Last.Seen.S01E03.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl5.sermoviedown.pw/Series/2026/Last.Seen/S1/720x265/Last.Seen.S01E04.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
-                          "https://dl5.sermoviedown.pw/Series/2026/Last.Seen/S1/720x265/Last.Seen.S01E05.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                          "https://dl5.sermoviedown.pw/Series/2026/Last.Seen/S1/720x265/Last.Seen.S01E05.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl5.sermoviedown.pw/Series/2026/Last.Seen/S1/720x265/Last.Seen.S01E06.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
                         ]
                       }
                     },
@@ -29505,7 +29757,8 @@
                       "https://dl5.sermoviedown.pw/Series/2026/Last.Seen/Sub/Last.Seen.S01E02.srt",
                       "https://dl5.sermoviedown.pw/Series/2026/Last.Seen/Sub/Last.Seen.S01E03.srt",
                       "https://dl5.sermoviedown.pw/Series/2026/Last.Seen/Sub/Last.Seen.S01E04.srt",
-                      "https://dl5.sermoviedown.pw/Series/2026/Last.Seen/Sub/Last.Seen.S01E05.srt"
+                      "https://dl5.sermoviedown.pw/Series/2026/Last.Seen/Sub/Last.Seen.S01E05.srt",
+                      "https://dl5.sermoviedown.pw/Series/2026/Last.Seen/Sub/Last.Seen.S01E06.srt"
                     ]
                   }
                 },
@@ -29896,7 +30149,8 @@
                         "files": [
                           "https://dl5.sermoviedown.pw/Series/2026/RJ.Decker/S2/720x265/RJ.Decker.S02E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv",
                           "https://dl5.sermoviedown.pw/Series/2026/RJ.Decker/S2/720x265/RJ.Decker.S02E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv",
-                          "https://dl5.sermoviedown.pw/Series/2026/RJ.Decker/S2/720x265/RJ.Decker.S02E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv"
+                          "https://dl5.sermoviedown.pw/Series/2026/RJ.Decker/S2/720x265/RJ.Decker.S02E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv",
+                          "https://dl5.sermoviedown.pw/Series/2026/RJ.Decker/S2/720x265/RJ.Decker.S02E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv"
                         ]
                       }
                     },
@@ -33521,6 +33775,39 @@
           "2026/": {
             "url": "https://dl11.sermoviedown.pw/Movies/2026/",
             "folders": {
+              "Animals/": {
+                "url": "https://dl11.sermoviedown.pw/Movies/2026/Animals/",
+                "folders": {
+                  "Sub/": {
+                    "url": "https://dl11.sermoviedown.pw/Movies/2026/Animals/Sub/",
+                    "folders": {},
+                    "files": [
+                      "https://dl11.sermoviedown.pw/Movies/2026/Animals/Sub/Animals.2026.srt"
+                    ]
+                  },
+                  "Web/": {
+                    "url": "https://dl11.sermoviedown.pw/Movies/2026/Animals/Web/",
+                    "folders": {
+                      "1080x265/": {
+                        "url": "https://dl11.sermoviedown.pw/Movies/2026/Animals/Web/1080x265/",
+                        "folders": {},
+                        "files": [
+                          "https://dl11.sermoviedown.pw/Movies/2026/Animals/Web/1080x265/Animals.2026.10bit.1080p.x265.WEB-DL.6CH.PSA-SoftSub.Sermovie.mkv"
+                        ]
+                      },
+                      "720x265/": {
+                        "url": "https://dl11.sermoviedown.pw/Movies/2026/Animals/Web/720x265/",
+                        "folders": {},
+                        "files": [
+                          "https://dl11.sermoviedown.pw/Movies/2026/Animals/Web/720x265/Animals.2026.10bit.720p.x265.WEB-DL.6CH.PSA-SoftSub.Sermovie.mkv"
+                        ]
+                      }
+                    },
+                    "files": []
+                  }
+                },
+                "files": []
+              },
               "Coyote.vs.Acme/": {
                 "url": "https://dl11.sermoviedown.pw/Movies/2026/Coyote.vs.Acme/",
                 "folders": {
@@ -38062,6 +38349,58 @@
                 },
                 "files": []
               },
+              "Carrie/": {
+                "url": "https://dl11.sermoviedown.pw/Series/2026/Carrie/",
+                "folders": {
+                  "S1/": {
+                    "url": "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/",
+                    "folders": {
+                      "1080p.10bit/": {
+                        "url": "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/1080p.10bit/",
+                        "folders": {},
+                        "files": [
+                          "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/1080p.10bit/Carrie.S01E01.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.Sermovie.mkv",
+                          "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/1080p.10bit/Carrie.S01E02.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.Sermovie.mkv",
+                          "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/1080p.10bit/Carrie.S01E03.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.Sermovie.mkv",
+                          "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/1080p.10bit/Carrie.S01E04.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.Sermovie.mkv",
+                          "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/1080p.10bit/Carrie.S01E05.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.Sermovie.mkv",
+                          "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/1080p.10bit/Carrie.S01E06.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.Sermovie.mkv",
+                          "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/1080p.10bit/Carrie.S01E07.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.Sermovie.mkv",
+                          "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/1080p.10bit/Carrie.S01E08.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.Sermovie.mkv",
+                          "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/1080p.10bit/PSArips.com.Sermovie.txt"
+                        ]
+                      },
+                      "720p.10bit/": {
+                        "url": "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/720p.10bit/",
+                        "folders": {},
+                        "files": [
+                          "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/720p.10bit/Carrie.S01E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv",
+                          "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/720p.10bit/Carrie.S01E02.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv",
+                          "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/720p.10bit/Carrie.S01E03.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv",
+                          "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/720p.10bit/Carrie.S01E04.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv",
+                          "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/720p.10bit/Carrie.S01E05.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv",
+                          "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/720p.10bit/Carrie.S01E06.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv",
+                          "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/720p.10bit/Carrie.S01E07.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv",
+                          "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/720p.10bit/Carrie.S01E08.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv",
+                          "https://dl11.sermoviedown.pw/Series/2026/Carrie/S1/720p.10bit/PSArips.com.Sermovie.txt"
+                        ]
+                      }
+                    },
+                    "files": []
+                  },
+                  "Sub/": {
+                    "url": "https://dl11.sermoviedown.pw/Series/2026/Carrie/Sub/",
+                    "folders": {},
+                    "files": [
+                      "https://dl11.sermoviedown.pw/Series/2026/Carrie/Sub/Carrie.S01E01.srt",
+                      "https://dl11.sermoviedown.pw/Series/2026/Carrie/Sub/Carrie.S01E02.srt",
+                      "https://dl11.sermoviedown.pw/Series/2026/Carrie/Sub/Carrie.S01E03.srt",
+                      "https://dl11.sermoviedown.pw/Series/2026/Carrie/Sub/Carrie.S01E04.srt"
+                    ]
+                  }
+                },
+                "files": []
+              },
               "Citadel/": {
                 "url": "https://dl11.sermoviedown.pw/Series/2026/Citadel/",
                 "folders": {
@@ -41586,6 +41925,19 @@
               "Family.Guy/": {
                 "url": "https://dl12.sermoviedown.pw/Series/1999/Family.Guy/",
                 "folders": {
+                  "25/": {
+                    "url": "https://dl12.sermoviedown.pw/Series/1999/Family.Guy/25/",
+                    "folders": {
+                      "720x265/": {
+                        "url": "https://dl12.sermoviedown.pw/Series/1999/Family.Guy/25/720x265/",
+                        "folders": {},
+                        "files": [
+                          "https://dl12.sermoviedown.pw/Series/1999/Family.Guy/25/720x265/Family.Guy.S25E00.Happy.Hell-o-ween.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.mkv"
+                        ]
+                      }
+                    },
+                    "files": []
+                  },
                   "S24/": {
                     "url": "https://dl12.sermoviedown.pw/Series/1999/Family.Guy/S24/",
                     "folders": {
@@ -42020,6 +42372,19 @@
                           "https://dl12.sermoviedown.pw/Series/2024/Georgie.and.Mandys.First.Marriage/S2/720X265/Georgie.and.Mandys.First.Marriage.S02E20.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv",
                           "https://dl12.sermoviedown.pw/Series/2024/Georgie.and.Mandys.First.Marriage/S2/720X265/Georgie.and.Mandys.First.Marriage.S02E21.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv",
                           "https://dl12.sermoviedown.pw/Series/2024/Georgie.and.Mandys.First.Marriage/S2/720X265/Georgie.and.Mandys.First.Marriage.S02E22.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv"
+                        ]
+                      }
+                    },
+                    "files": []
+                  },
+                  "S3/": {
+                    "url": "https://dl12.sermoviedown.pw/Series/2024/Georgie.and.Mandys.First.Marriage/S3/",
+                    "folders": {
+                      "720x265/": {
+                        "url": "https://dl12.sermoviedown.pw/Series/2024/Georgie.and.Mandys.First.Marriage/S3/720x265/",
+                        "folders": {},
+                        "files": [
+                          "https://dl12.sermoviedown.pw/Series/2024/Georgie.and.Mandys.First.Marriage/S3/720x265/Georgie.and.Mandys.First.Marriage.S03E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv"
                         ]
                       }
                     },
@@ -44202,6 +44567,45 @@
                 },
                 "files": []
               },
+              "Avatar.Seven.Havens/": {
+                "url": "https://dl12.sermoviedown.pw/Series/2026/Avatar.Seven.Havens/",
+                "folders": {
+                  "S1/": {
+                    "url": "https://dl12.sermoviedown.pw/Series/2026/Avatar.Seven.Havens/S1/",
+                    "folders": {
+                      "1080x265/": {
+                        "url": "https://dl12.sermoviedown.pw/Series/2026/Avatar.Seven.Havens/S1/1080x265/",
+                        "folders": {},
+                        "files": [
+                          "https://dl12.sermoviedown.pw/Series/2026/Avatar.Seven.Havens/S1/1080x265/Avatar.Seven.Havens.S01E01.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl12.sermoviedown.pw/Series/2026/Avatar.Seven.Havens/S1/1080x265/Avatar.Seven.Havens.S01E02.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl12.sermoviedown.pw/Series/2026/Avatar.Seven.Havens/S1/1080x265/Avatar.Seven.Havens.S01E03.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                        ]
+                      },
+                      "720x265/": {
+                        "url": "https://dl12.sermoviedown.pw/Series/2026/Avatar.Seven.Havens/S1/720x265/",
+                        "folders": {},
+                        "files": [
+                          "https://dl12.sermoviedown.pw/Series/2026/Avatar.Seven.Havens/S1/720x265/Avatar.Seven.Havens.S01E01.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl12.sermoviedown.pw/Series/2026/Avatar.Seven.Havens/S1/720x265/Avatar.Seven.Havens.S01E02.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl12.sermoviedown.pw/Series/2026/Avatar.Seven.Havens/S1/720x265/Avatar.Seven.Havens.S01E03.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                        ]
+                      }
+                    },
+                    "files": []
+                  },
+                  "Sub/": {
+                    "url": "https://dl12.sermoviedown.pw/Series/2026/Avatar.Seven.Havens/Sub/",
+                    "folders": {},
+                    "files": [
+                      "https://dl12.sermoviedown.pw/Series/2026/Avatar.Seven.Havens/Sub/Avatar%20.Seven.Havens.S01E01.srt",
+                      "https://dl12.sermoviedown.pw/Series/2026/Avatar.Seven.Havens/Sub/Avatar%20.Seven.Havens.S01E02.srt",
+                      "https://dl12.sermoviedown.pw/Series/2026/Avatar.Seven.Havens/Sub/Avatar.Seven.Havens.S01E03.srt"
+                    ]
+                  }
+                },
+                "files": []
+              },
               "Big.City.Greens/": {
                 "url": "https://dl12.sermoviedown.pw/Series/2026/Big.City.Greens/",
                 "folders": {
@@ -44334,7 +44738,8 @@
                           "https://dl12.sermoviedown.pw/Series/2026/Dark.Matter/S2/1080x265/Dark.Matter.S02E03.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl12.sermoviedown.pw/Series/2026/Dark.Matter/S2/1080x265/Dark.Matter.S02E04.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl12.sermoviedown.pw/Series/2026/Dark.Matter/S2/1080x265/Dark.Matter.S02E05.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
-                          "https://dl12.sermoviedown.pw/Series/2026/Dark.Matter/S2/1080x265/Dark.Matter.S02E06.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                          "https://dl12.sermoviedown.pw/Series/2026/Dark.Matter/S2/1080x265/Dark.Matter.S02E06.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl12.sermoviedown.pw/Series/2026/Dark.Matter/S2/1080x265/Dark.Matter.S02E07.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
                         ]
                       },
                       "720x265/": {
@@ -44346,7 +44751,8 @@
                           "https://dl12.sermoviedown.pw/Series/2026/Dark.Matter/S2/720x265/Dark.Matter.S02E03.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl12.sermoviedown.pw/Series/2026/Dark.Matter/S2/720x265/Dark.Matter.S02E04.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl12.sermoviedown.pw/Series/2026/Dark.Matter/S2/720x265/Dark.Matter.S02E05.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
-                          "https://dl12.sermoviedown.pw/Series/2026/Dark.Matter/S2/720x265/Dark.Matter.S02E06.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                          "https://dl12.sermoviedown.pw/Series/2026/Dark.Matter/S2/720x265/Dark.Matter.S02E06.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl12.sermoviedown.pw/Series/2026/Dark.Matter/S2/720x265/Dark.Matter.S02E07.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
                         ]
                       },
                       "Sub/": {
@@ -44359,7 +44765,8 @@
                           "https://dl12.sermoviedown.pw/Series/2026/Dark.Matter/S2/Sub/Dark.Matter.S02E03.srt",
                           "https://dl12.sermoviedown.pw/Series/2026/Dark.Matter/S2/Sub/Dark.Matter.S02E04.srt",
                           "https://dl12.sermoviedown.pw/Series/2026/Dark.Matter/S2/Sub/Dark.Matter.S02E05.srt",
-                          "https://dl12.sermoviedown.pw/Series/2026/Dark.Matter/S2/Sub/Dark.Matter.S02E06.srt"
+                          "https://dl12.sermoviedown.pw/Series/2026/Dark.Matter/S2/Sub/Dark.Matter.S02E06.srt",
+                          "https://dl12.sermoviedown.pw/Series/2026/Dark.Matter/S2/Sub/Dark.Matter.S02E07.srt"
                         ]
                       }
                     },
@@ -44488,6 +44895,48 @@
                 },
                 "files": []
               },
+              "Small.Prophets/": {
+                "url": "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/",
+                "folders": {
+                  "S1/": {
+                    "url": "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/S1/",
+                    "folders": {
+                      "720x265/": {
+                        "url": "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/S1/720x265/",
+                        "folders": {},
+                        "files": [
+                          "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/S1/720x265/Small.Prophets.S01E01.720p.HEVC.x265-MeGusta.Sermovie.mkv",
+                          "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/S1/720x265/Small.Prophets.S01E02.720p.HEVC.x265-MeGusta.Sermovie.mkv",
+                          "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/S1/720x265/Small.Prophets.S01E03.720p.HEVC.x265-MeGusta.Sermovie.mkv",
+                          "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/S1/720x265/Small.Prophets.S01E04.720p.HEVC.x265-MeGusta.Sermovie.mkv",
+                          "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/S1/720x265/Small.Prophets.S01E05.720p.HEVC.x265-MeGusta.Sermovie.mkv",
+                          "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/S1/720x265/Small.Prophets.S01E06.720p.HEVC.x265-MeGusta.Sermovie.mkv"
+                        ]
+                      }
+                    },
+                    "files": []
+                  },
+                  "Sub/": {
+                    "url": "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/Sub/",
+                    "folders": {},
+                    "files": [
+                      "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/Sub/%5BFor%20PC%5D.Small.Prophets.S01E01.1080p.iP.WEB-DL.AAC2.0.H.264-RAWR.ass",
+                      "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/Sub/%5BFor%20PC%5D.Small.Prophets.S01E02.1080p.iP.WEB-DL.AAC2.0.H.264-RAWR.ass",
+                      "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/Sub/%5BFor%20PC%5D.Small.Prophets.S01E03.1080p.iP.WEB-DL.AAC2.0.H.264-RAWR.ass",
+                      "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/Sub/%5BFor%20PC%5D.Small.Prophets.S01E04.1080p.iP.WEB-DL.AAC2.0.H.264-RAWR.ass",
+                      "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/Sub/%5BFor%20PC%5D.Small.Prophets.S01E05.1080p.iP.WEB-DL.AAC2.0.H.264-RAWR.ass",
+                      "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/Sub/%5BFor%20PC%5D.Small.Prophets.S01E06.1080p.iP.WEB-DL.AAC2.0.H.264-RAWR.ass",
+                      "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/Sub/%5BFor%20TV%5D.Small.Prophets.S01E01.1080p.iP.WEB-DL.AAC2.0.H.264-RAWR.srt",
+                      "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/Sub/%5BFor%20TV%5D.Small.Prophets.S01E02.1080p.iP.WEB-DL.AAC2.0.H.264-RAWR.srt",
+                      "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/Sub/%5BFor%20TV%5D.Small.Prophets.S01E03.1080p.iP.WEB-DL.AAC2.0.H.264-RAWR.srt",
+                      "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/Sub/%5BFor%20TV%5D.Small.Prophets.S01E04.1080p.iP.WEB-DL.AAC2.0.H.264-RAWR.srt",
+                      "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/Sub/%5BFor%20TV%5D.Small.Prophets.S01E05.1080p.iP.WEB-DL.AAC2.0.H.264-RAWR.srt",
+                      "https://dl12.sermoviedown.pw/Series/2026/Small.Prophets/Sub/%5BFor%20TV%5D.Small.Prophets.S01E06.1080p.iP.WEB-DL.AAC2.0.H.264-RAWR.srt"
+                    ]
+                  }
+                },
+                "files": []
+              },
               "Spider-Noir%20Co/": {
                 "url": "https://dl12.sermoviedown.pw/Series/2026/Spider-Noir%20Co/",
                 "folders": {
@@ -44546,7 +44995,8 @@
                           "https://dl12.sermoviedown.pw/Series/2026/Ted.Lasso/S04/1080x265/Ted.Lasso.S04E06.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl12.sermoviedown.pw/Series/2026/Ted.Lasso/S04/1080x265/Ted.Lasso.S04E07.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl12.sermoviedown.pw/Series/2026/Ted.Lasso/S04/1080x265/Ted.Lasso.S04E08.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
-                          "https://dl12.sermoviedown.pw/Series/2026/Ted.Lasso/S04/1080x265/Ted.Lasso.S04E09.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                          "https://dl12.sermoviedown.pw/Series/2026/Ted.Lasso/S04/1080x265/Ted.Lasso.S04E09.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl12.sermoviedown.pw/Series/2026/Ted.Lasso/S04/1080x265/Ted.Lasso.S04E10.1080p.10bit.WEB-DL.6CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
                         ]
                       },
                       "720x265/": {
@@ -44561,7 +45011,8 @@
                           "https://dl12.sermoviedown.pw/Series/2026/Ted.Lasso/S04/720x265/Ted.Lasso.S04E06.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl12.sermoviedown.pw/Series/2026/Ted.Lasso/S04/720x265/Ted.Lasso.S04E07.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
                           "https://dl12.sermoviedown.pw/Series/2026/Ted.Lasso/S04/720x265/Ted.Lasso.S04E08.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
-                          "https://dl12.sermoviedown.pw/Series/2026/Ted.Lasso/S04/720x265/Ted.Lasso.S04E09.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
+                          "https://dl12.sermoviedown.pw/Series/2026/Ted.Lasso/S04/720x265/Ted.Lasso.S04E09.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv",
+                          "https://dl12.sermoviedown.pw/Series/2026/Ted.Lasso/S04/720x265/Ted.Lasso.S04E10.720p.10bit.WEB-DL.2CH.x265.HEVC-PSA.SoftSub.Sermovie.mkv"
                         ]
                       },
                       "Sub/": {
@@ -44576,7 +45027,8 @@
                           "https://dl12.sermoviedown.pw/Series/2026/Ted.Lasso/S04/Sub/Ted.Lasso.S04E06.srt",
                           "https://dl12.sermoviedown.pw/Series/2026/Ted.Lasso/S04/Sub/Ted.Lasso.S04E07.srt",
                           "https://dl12.sermoviedown.pw/Series/2026/Ted.Lasso/S04/Sub/Ted.Lasso.S04E08.srt",
-                          "https://dl12.sermoviedown.pw/Series/2026/Ted.Lasso/S04/Sub/Ted.Lasso.S04E09.srt"
+                          "https://dl12.sermoviedown.pw/Series/2026/Ted.Lasso/S04/Sub/Ted.Lasso.S04E09.srt",
+                          "https://dl12.sermoviedown.pw/Series/2026/Ted.Lasso/S04/Sub/Ted.Lasso.S04E10.srt"
                         ]
                       }
                     },
